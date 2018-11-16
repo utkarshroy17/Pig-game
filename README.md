@@ -8,6 +8,6 @@
  - You can hold the score of the current round by clicking on hold. The current score will get added to the total score.
  - First player to reach the winning score will win the game.
 
- ##Preview
+## Preview
 
  http://htmlpreview.github.io/
