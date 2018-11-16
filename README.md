@@ -10,4 +10,4 @@
 
 ## Preview
 
- http://htmlpreview.github.io/
+ http://htmlpreview.github.io/?https://github.com/utkarshroy17/Pig-game/blob/master/index.html
